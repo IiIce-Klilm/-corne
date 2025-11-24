@@ -197,5 +197,11 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
 combos:
+- p: [22, 36]
+  k: {t: '=', s: +}
+- p: [18, 33]
+  k: {t: '-', s: _}
+- p: [0, 13]
+  k: $$mdi:keyboard-esc$$
 - p: [1, 15, 29]
   k: '&soft_off'
